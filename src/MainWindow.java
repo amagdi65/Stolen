@@ -1,3 +1,4 @@
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.EventQueue;
@@ -94,3 +95,5 @@ public class MainWindow extends JFrame {
 		contentPane.add(label);
 	}
 }
+
+

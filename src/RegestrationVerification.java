@@ -1,4 +1,3 @@
-
 public class RegestrationVerification {
     RegDB rdb;
     RegestrationVerification()

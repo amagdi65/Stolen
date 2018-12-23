@@ -49,4 +49,3 @@ public class User {
         return UserName;
     }
 
-}

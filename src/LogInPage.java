@@ -1,3 +1,4 @@
+
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
@@ -147,3 +148,5 @@ public class LogInPage extends JFrame {
 		contentPane.add(lblPassword);
 	}
 }
+
+
